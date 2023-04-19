@@ -8,10 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Wanderson-Fer/express-login.git"
+    "url": "git+https://github.com/Wanderson-Fer/to-do.git"
   },
   "author": "wandersonguedesfernandes15@gmail.com (wand.fer)",
   "license": "ISC",
-  "homepage": "https://github.com/Wanderson-Fer/express-login#readme",
-  "type": "module"
+  "homepage": "https://github.com/Wanderson-Fer/to-do#readme",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
