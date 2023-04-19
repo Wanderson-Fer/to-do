@@ -1,0 +1,17 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "to-do list Application",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wanderson-Fer/express-login.git"
+  },
+  "author": "wandersonguedesfernandes15@gmail.com (wand.fer)",
+  "license": "ISC",
+  "homepage": "https://github.com/Wanderson-Fer/express-login#readme",
+  "type": "module"
+}
